@@ -1,2 +1,2 @@
-# BASICS-AutomatedTellerMachine
-Created a simple ATM system using Python BASICS
+# Automated Teller Machine (ATM)
+
